@@ -1,0 +1,8 @@
+20/06/2021 16:56 - Sagos#8954: !adv @membro MOTIVO - adverti o membro mencionado com o motivo informado
+
+!radv @membro MOTIVO - remove as advertencias do membro mencionado com o motivo informado
+20/06/2021 16:58 - Sagos#8954: Alguns comandos de ADM 👇 
+
+!adv @membro MOTIVO - adverti o membro mencionado com o motivo informado
+
+!radv @membro MOTIVO - remove as advertencias do membro mencionado com o motivo informado

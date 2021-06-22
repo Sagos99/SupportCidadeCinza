@@ -1,0 +1,4 @@
+20/06/2021 14:31 - Sagos#8954: !reportarbug dinheiro do inventário se tornando dinheiro sujo quando guarda no porta malas do carro
+21/06/2021 13:08 - CM#1218: testa
+21/06/2021 13:08 - CM#1218: !reportarbug
+21/06/2021 13:08 - CM#1218: !reportarbug Descobri que ao dropar dinheiro ele duplica

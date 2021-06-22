@@ -1,0 +1,17 @@
+20/06/2021 18:06 - Sagos#8954: !comandos
+20/06/2021 18:07 - Sagos#8954: !comandos administração
+20/06/2021 18:11 - Sagos#8954: !comandos
+20/06/2021 18:11 - Sagos#8954: !comandos diversão
+20/06/2021 18:11 - Sagos#8954: !comandos configuração
+20/06/2021 18:13 - Sagos#8954: !comandos configuração
+20/06/2021 18:13 - Sagos#8954: 2
+20/06/2021 18:14 - Sagos#8954: !setarcargoentrou <@&856243210737287190>
+20/06/2021 18:27 - Sagos#8954: !comandos configurações
+20/06/2021 18:28 - Sagos#8954: !comandos
+20/06/2021 18:28 - Sagos#8954: !comandos configuração
+20/06/2021 18:28 - Sagos#8954: !setarcanalsaiu <#856271671064395787>
+20/06/2021 18:29 - Sagos#8954: !setarcanalentrar <#856202101981446206>
+20/06/2021 18:29 - Sagos#8954: !setarcanalentrou <#856202101981446206>
+20/06/2021 18:29 - Sagos#8954: !setarcargoentrou <@&856243210737287190>
+20/06/2021 18:30 - Sagos#8954: !setarcargoentrou <@&856243210737287190>
+20/06/2021 18:30 - Sagos#8954: !sistemabemvindo

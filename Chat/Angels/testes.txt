@@ -1,0 +1,200 @@
+07/06/2021 08:32 - Sagos#8954: teste
+07/06/2021 08:32 - Sagos#8954: Sagos
+07/06/2021 08:35 - CM#1218: quero café
+07/06/2021 08:41 - Sagos#8954: teste
+07/06/2021 08:41 - Sagos#8954: teste
+07/06/2021 08:45 - Sagos#8954: tbm quero
+09/06/2021 08:05 - Hempinho#8695: vo busca o meu
+09/06/2021 08:05 - Hempinho#8695: ☕
+09/06/2021 18:05 - CM#1218: vou fazer um mais tarde
+14/06/2021 14:56 - Sagos#8954: !PING
+14/06/2021 15:14 - CM#1218: !ping
+14/06/2021 15:14 - CM#1218: quero café !
+14/06/2021 15:14 - CM#1218: 
+15/06/2021 10:27 - Hempinho#8695: 
+15/06/2021 10:27 - Hempinho#8695: saurdi
+17/06/2021 07:46 - Sagos#8954: Criei um server
+17/06/2021 10:47 - Sagos#8954: 
+17/06/2021 17:23 - Sagos#8954: kkkk
+17/06/2021 17:24 - Hempinho#8695: so apaga esses printt ai
+17/06/2021 17:24 - Hempinho#8695: de cima
+17/06/2021 17:24 - Hempinho#8695: e nois continue
+17/06/2021 17:24 - Hempinho#8695: continua
+17/06/2021 17:24 - Sagos#8954: só tem nos 4 aqui no chat
+17/06/2021 17:39 - CM#1218: boa
+17/06/2021 17:39 - CM#1218: sagos
+17/06/2021 17:39 - CM#1218: vm fazer isso ae
+17/06/2021 17:39 - CM#1218: acontecer
+17/06/2021 17:39 - CM#1218: vamos
+17/06/2021 17:39 - CM#1218: subir uns mod de gráfico ae
+17/06/2021 17:41 - CM#1218: mod de gráfico, uns carros que pega 250+/-
+17/06/2021 17:41 - CM#1218: e entrar nois tdo testar c alguem limba
+17/06/2021 17:41 - CM#1218: c n limbar já estamos a frente
+17/06/2021 17:41 - CM#1218: eu mesmo desanimei varias vezes do bombecity no inicio
+17/06/2021 17:41 - CM#1218: pq eu só limbava
+17/06/2021 17:41 - Sagos#8954: kkkkkk o <@!388180586830757908> limbou
+17/06/2021 17:41 - CM#1218: ixi
+17/06/2021 17:41 - Hempinho#8695: 1x
+17/06/2021 17:41 - CM#1218: ja ta bom ent
+17/06/2021 17:41 - CM#1218: da pra treinar
+17/06/2021 17:41 - Sagos#8954: mas acho que é pq estava rodando na minha máquina
+17/06/2021 17:41 - Hempinho#8695: mas isso n pode ser pelo host ser seu pc?
+17/06/2021 17:42 - Hempinho#8695: sss
+17/06/2021 17:42 - Sagos#8954: acho que sim
+17/06/2021 17:42 - Hempinho#8695: tambem acho
+17/06/2021 17:42 - Hempinho#8695: deu connection problem
+17/06/2021 17:42 - CM#1218: mano se me passar as config
+17/06/2021 17:42 - CM#1218: a principio posso tentar rodar aqui como host
+17/06/2021 17:42 - Hempinho#8695: mas agt deu ate uns tiro
+17/06/2021 17:42 - Sagos#8954: eu vou postar no github
+17/06/2021 17:42 - CM#1218: mas o ideal seria a gente rashar um server
+17/06/2021 17:42 - CM#1218: aqui no brasil
+17/06/2021 17:42 - CM#1218: <@!170752898462908416>  c ja sabe como q é os requisitos mais ou menos ?
+17/06/2021 17:42 - Sagos#8954: eu estava vendo um host, pra suportar 40 pessoas fica 150 R$
+17/06/2021 17:43 - CM#1218: ae ta suave
+17/06/2021 17:43 - CM#1218: eu fecho
+17/06/2021 17:43 - Sagos#8954: eu tbm
+17/06/2021 17:43 - Sagos#8954: mas antes de pagar host temos que criar nossos scripts
+17/06/2021 17:43 - Sagos#8954: é em lua, quero sua ajuda
+17/06/2021 17:43 - CM#1218: sim, sim
+17/06/2021 17:43 - Sagos#8954: mó da hr, eu fiz a conexão com o banco aqui
+17/06/2021 17:45 - CM#1218: quais os requisitos dessa maquina
+17/06/2021 17:45 - Sagos#8954: 
+17/06/2021 17:45 - CM#1218: caralho
+17/06/2021 17:46 - CM#1218: parece ser boa
+17/06/2021 17:46 - CM#1218: e 45gb ssd
+17/06/2021 17:46 - Sagos#8954: https://www.ominihost.com/ominihost-vps-brasil-ssd
+17/06/2021 17:46 - CM#1218: guenta o server?
+17/06/2021 17:46 - CM#1218: voce pesquisou outros lugares?
+17/06/2021 17:46 - Sagos#8954: sim pera ae
+17/06/2021 17:47 - CM#1218: boa !
+17/06/2021 17:47 - Sagos#8954: https://financeiro.raze.host/login
+17/06/2021 17:47 - Sagos#8954: tem esse ae tbm, mas os valores são praticamente os msm
+17/06/2021 17:48 - Sagos#8954: 
+17/06/2021 17:49 - CM#1218: bem parecido
+17/06/2021 17:49 - CM#1218: essa com 6gb
+17/06/2021 17:49 - CM#1218: parece ser boa
+17/06/2021 17:49 - CM#1218: o ideal eramos futuramente conseguirmos uma de 8gb
+17/06/2021 17:49 - Sagos#8954: mas aí estamos pulando etapa kkk
+17/06/2021 17:49 - Hempinho#8695: kkkkkkkkkk
+17/06/2021 17:50 - Sagos#8954: a gente tem que ficar pró nos script primeiro
+17/06/2021 17:50 - Hempinho#8695: justo
+17/06/2021 17:50 - CM#1218: vamos ficar, vamos fazer uns ae, ja me ensina q eu te ajudo
+17/06/2021 17:50 - Hempinho#8695: primeiro e testar os scripts com nosso host
+17/06/2021 17:50 - CM#1218: não, só pra ter uma noção se é tangivel pra níos
+17/06/2021 17:50 - Hempinho#8695: depois que agt achar que a city da ok, agt lanca um host de 80
+17/06/2021 17:50 - Hempinho#8695: e assim vai
+17/06/2021 17:50 - Sagos#8954: sim
+17/06/2021 17:51 - Hempinho#8695: conforme vai chegando gente e agt sentir a necessidade...
+17/06/2021 17:51 - Sagos#8954: tem que criar um site pra donate, um host no team speak
+17/06/2021 17:51 - Sagos#8954: um discord da hr
+17/06/2021 17:52 - Sagos#8954: tem que ver onde vai ficar esse host do site da cidade
+17/06/2021 17:52 - CM#1218: e o tokovoip
+17/06/2021 17:52 - CM#1218: ja conseguiu subir?
+17/06/2021 17:52 - Sagos#8954: não vi, mas parece ser fácil
+17/06/2021 17:52 - CM#1218: isso
+17/06/2021 17:52 - CM#1218: tudo eu sei fazer
+17/06/2021 17:52 - CM#1218: site pro donate, host pro team e o xdisc
+17/06/2021 17:52 - CM#1218: como funciona o host do Ts3 c sabe?
+17/06/2021 17:52 - Sagos#8954: não
+17/06/2021 17:53 - CM#1218: acho que a prinicipio
+17/06/2021 17:53 - CM#1218: é subir tokovoip no server
+17/06/2021 17:53 - CM#1218: ou algo parecido e q seja bom
+17/06/2021 17:53 - CM#1218: donate pode serr bem por ultimo
+17/06/2021 17:53 - Sagos#8954: temos que ver o nome da cidade, e comprar os domínios, mas nome de domínio é barato
+17/06/2021 17:53 - CM#1218: primeiro temos que ajustar uma rotatividade na city
+17/06/2021 17:53 - CM#1218: isso é mais pra frente e mais de boa, podemos mudar tudo tbm
+17/06/2021 17:53 - Sagos#8954: eu comprei o sagos.host por 7 reais durante 1 ano
+17/06/2021 17:54 - LIL ZINA#9844: https://glibhost.com/blog/teamspeak/?gclid=Cj0KCQjw5auGBhDEARIsAFyNm9Ei-8rmNTD5yIgjeHF1_s_AvrMRsyi8nvVAsZMrxHx9BNjjXfCVujQaAuzeEALw_wcB
+17/06/2021 17:54 - LIL ZINA#9844: tipo isso sagos?
+17/06/2021 17:55 - CM#1218: esse n
+17/06/2021 17:55 - CM#1218: tem q ser um full nosso
+17/06/2021 17:55 - CM#1218: com plugin
+17/06/2021 17:55 - CM#1218: pra vincular a cidade
+17/06/2021 17:55 - CM#1218: <@!170752898462908416> acho q a prinicipio da pra subir local tbm né ?
+17/06/2021 17:55 - Sagos#8954: sim meu pc aguenta 10 player de boa
+17/06/2021 17:56 - CM#1218: ah ent suave
+17/06/2021 17:56 - CM#1218: boa
+17/06/2021 17:56 - CM#1218: ent
+17/06/2021 17:56 - CM#1218: precisamos ver
+17/06/2021 17:56 - CM#1218: o Plugin TS3 para a nossa CIDADE
+17/06/2021 17:56 - CM#1218: com o possível
+17/06/2021 17:56 - CM#1218: GRITAR / NORMAL / SUSSURRAR
+17/06/2021 17:56 - Hempinho#8695: gritar radio / normal radio / sussurrar radio
+17/06/2021 17:57 - Sagos#8954: é vc pode ver isso, e eu quero ver como posso rodar meus scripts lua no server
+17/06/2021 17:57 - LIL ZINA#9844: audio e ligacao no biriri
+17/06/2021 18:02 - CM#1218: Deus do Lua
+17/06/2021 18:02 - Sagos#8954: kkkkkkk
+17/06/2021 18:16 - Hempinho#8695: deus do sol
+17/06/2021 21:16 - Sagos#8954: /status
+17/06/2021 21:17 - Sagos#8954: !status
+17/06/2021 21:18 - Sagos#8954: !status
+17/06/2021 21:24 - Sagos#8954: !hel
+17/06/2021 21:24 - Sagos#8954: !help
+18/06/2021 00:55 - Sagos#8954: !status
+18/06/2021 00:55 - CM#1218: !status
+18/06/2021 01:29 - Hempinho#8695: !status
+18/06/2021 02:33 - Hempinho#8695: !status
+18/06/2021 02:34 - CM#1218: !status
+18/06/2021 02:34 - CM#1218: 177.54.156.229:30120
+18/06/2021 02:34 - CM#1218: connect 177.54.156.229:30120
+18/06/2021 03:11 - CM#1218: !status
+19/06/2021 18:14 - Sagos#8954: !status
+19/06/2021 20:09 - CM#1218: !status
+20/06/2021 02:22 - Hempinho#8695: https://www.gta5-mods.com/vehicles/mercedes-amg-gt63-s-coupe
+20/06/2021 02:22 - Hempinho#8695: https://www.gta5-mods.com/vehicles/2016-nissan-370z-nismo-z34
+20/06/2021 02:23 - Hempinho#8695: https://www.gta5-mods.com/vehicles/kawasaki-zx10r-2017-replace-template
+20/06/2021 02:24 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-add-on-replace-fivem-lods
+20/06/2021 02:24 - Hempinho#8695: https://www.gta5-mods.com/vehicles/honda-hornet-2014-add-on-fivem-ch4p1nh4
+20/06/2021 02:25 - Hempinho#8695: https://www.gta5-mods.com/vehicles/bmw-x7-2021-add-on-tuning
+20/06/2021 02:26 - Hempinho#8695: https://www.gta5-mods.com/vehicles/bmw-m4-2021-replace-add-on-fivem-unlock
+20/06/2021 02:27 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/mercedes-benz-190e-2-5-16-evolution-ii
+20/06/2021 02:27 - Hempinho#8695: https://www.gta5-mods.com/vehicles/2021-porsche-911-turbo-s-add-on-lods-template
+20/06/2021 02:28 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/ikt-s-pretty-accurate-handling-pack
+20/06/2021 02:29 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/nissan-skyline-gt-r-bnr32-template
+20/06/2021 02:29 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/rb16-aston-martin-red-bull-formula-one-f1-add-on-livery
+20/06/2021 02:30 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/mitsubishi-lancer-evolution-ix-mr-realistic-handling-sound 
+esse e o principal, pelo amor de Deus hahahaha
+20/06/2021 02:31 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/2008-subaru-wrx-widebody-add-on
+20/06/2021 02:32 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/toy-story-rc-add-on esse tem que custar 300 reais
+20/06/2021 02:33 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/toyota-sprinter-trueno-gt-apex-ae86-correct-suspension-gear-ratios-handling-pack
+20/06/2021 02:35 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/toyota-supra-gr-2020-add-on-tuning-liveries
+20/06/2021 02:35 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/yamaha-xt660r-add-on-fivem essa tambem must have
+20/06/2021 02:36 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/yamaha-xj6-turbo-add-on-fivem
+20/06/2021 02:36 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/bmw-f-850-gs-add-on-fivem
+20/06/2021 02:36 - Hempinho#8695: https://www.gta5-mods.com/vehicles/volkswagen-gol-gl-turbo-add-on
+20/06/2021 02:37 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/bmw-r1250gs-add-on-fivem
+20/06/2021 02:37 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/yamara-super-tenere-1200-add-on-fivem
+20/06/2021 02:38 - Hempinho#8695: https://pt.gta5-mods.com/paintjobs/gta-v-blazer-policia-militar-sp
+20/06/2021 02:38 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/peugeot-405-mi16
+20/06/2021 02:38 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/nissan-skyline
+20/06/2021 02:39 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/1986-honda-civic-add-on-fivem-tuning-template
+20/06/2021 02:39 - Hempinho#8695: https://pt.gta5-mods.com/paintjobs/metro-linha-azul-sao-paulo-skin
+20/06/2021 02:41 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/2018-ford-f-150-raptor-crew-cab-oiv-add-on-tuning-fivem
+20/06/2021 02:41 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/1994-nissan-240sx-se-fastbacl-addon-tuning-template
+20/06/2021 02:41 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/nissan-s14-drift-fivem-addon
+20/06/2021 02:42 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/lexus-lfa-2010-add-on-lods-livery
+20/06/2021 02:47 - Hempinho#8695: https://pt.gta5-mods.com/vehicles/toyota-hilux-sw4-2014-rota-e-forca-tatica
+20/06/2021 02:50 - LIL ZINA#9844: https://www.gta5-mods.com/vehicles/san-andreas-motorsport-go-karts
+20/06/2021 02:52 - LIL ZINA#9844: https://pt.gta5-mods.com/maps/mlo-clothes-shop-fivem-sp-alt-ready
+20/06/2021 02:54 - LIL ZINA#9844: https://www.gta5-mods.com/scripts/premium-deluxe-motorsports-car-shop
+20/06/2021 02:55 - Hempinho#8695: https://github.com/jeangondorek/Concessionaria-fivem
+20/06/2021 02:58 - LIL ZINA#9844: https://pt.gta5-mods.com/misc/brazilian-portuguese-translation-for-premium-deluxe-motorsport-car-dealership-mod
+20/06/2021 12:44 - Sagos#8954: <@!386651688293105674> consegue fazer uma logo da cidade?
+e o ícone do discord ttbm
+20/06/2021 12:45 - Sagos#8954: tipo um gif
+e com uma fumacinha pra representar kkkk
+20/06/2021 15:36 - LIL ZINA#9844: https://www.twitch.tv/thzinnfps
+20/06/2021 15:36 - LIL ZINA#9844: o inventario dessa city funciona igual o pubg/fortnite
+20/06/2021 15:36 - LIL ZINA#9844: achei da hora ate
+20/06/2021 15:37 - LIL ZINA#9844: https://www.twitch.tv/kyle
+esse aqui foi o que eu falei que o layout e bem loco
+20/06/2021 15:38 - LIL ZINA#9844: minimapa colorido, os bagulho da vida e fome logo embaixo organizado
+21/06/2021 19:16 - LIL ZINA#9844: base de referencia do logo
+21/06/2021 19:21 - LIL ZINA#9844: base pro fundo
+21/06/2021 19:22 - LIL ZINA#9844: referencia
+21/06/2021 19:25 - LIL ZINA#9844: 
+21/06/2021 19:26 - LIL ZINA#9844: 
+21/06/2021 20:34 - LIL ZINA#9844: pingos dos i's
+21/06/2021 20:39 - LIL ZINA#9844: 
+21/06/2021 21:37 - CM#1218: connect cidadecinza.servegame.com

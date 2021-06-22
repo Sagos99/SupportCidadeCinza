@@ -1,0 +1,25 @@
+15/06/2021 23:02 - CM#1218: Natiell Deux Do Anti-DDoS — 09/06/2021
+Segue a baixo como fazer a limpeza da pasta cache
+1º Passo
+
+2º Passo
+Após clicar com o botão ESQUERDO para ABRIR O LOCAL DO ARQUIVO, abra a pasta "FiveM Application Data".
+
+3º Passo
+Clicar na pasta data
+
+4º Passo
+Após abrir a pasta DATA, apague todas as pastas que estão dentro dela EXCETO a pasta  GAME-STORAGE.
+
+5º Passo
+Feche todas as pastas do FIVE M e inicie o mesmo novamente.
+
+@everyone
+15/06/2021 23:04 - CM#1218: 
+15/06/2021 23:04 - CM#1218: 
+15/06/2021 23:05 - CM#1218: 
+15/06/2021 23:05 - CM#1218: Só ver o print
+15/06/2021 23:06 - CM#1218: <#800062133660024865>
+16/06/2021 01:51 - -タカシ-#2510: isso ai ajuda memo?
+16/06/2021 02:08 - CM#1218: positivo
+17/06/2021 17:25 - Sagui#6214: muito

@@ -1,0 +1,25 @@
+20/06/2021 15:35 - { 飛ぶ } HatsuneGamesXP ⸸#7315: eita kk
+20/06/2021 15:38 - Sagos#8954: teste
+20/06/2021 16:51 - Sagos#8954: !setarcanaladvertencias <#856228342943711262>
+20/06/2021 16:53 - Sagos#8954: !setarcargoadv1 <@&856255994778615828>
+20/06/2021 16:54 - Sagos#8954: !setarcargoadv2 <@&856256395580932106>
+20/06/2021 17:11 - Sagos#8954: !setarcanalbanidos <#856228379345813525>
+20/06/2021 17:13 - Sagos#8954: !comandos configuração
+20/06/2021 17:17 - Sagos#8954: !setarcanaldenuncias <#856265867897208903>
+20/06/2021 17:18 - Sagos#8954: !setarcanaldenunciasrecebidas <#856266177046904843>
+20/06/2021 17:22 - Sagos#8954: !sistemadeinvite on
+20/06/2021 17:23 - Sagos#8954: !sistemadeinvite 1
+20/06/2021 17:27 - Sagos#8954: !canaldivulgacoes <#856268078694137886>
+20/06/2021 17:29 - Sagos#8954: !setarcanalsets <#856206749546971148>
+20/06/2021 17:34 - Sagos#8954: !setarcanalsets <#856270024108146728>
+20/06/2021 17:36 - Sagos#8954: !setarcanalentrou <#856202101981446206>
+20/06/2021 17:37 - Sagos#8954: !sistemabemvindo
+20/06/2021 17:39 - Sagos#8954: !setarcanalsaiu <#856271671064395787>
+20/06/2021 17:40 - Sagos#8954: !setarcargoentrou <@&856243210737287190>
+20/06/2021 17:40 - Sagos#8954: !setaripentrar  cidadecinza.servegame.com
+20/06/2021 17:40 - Sagos#8954: !setaripentrou  cidadecinza.servegame.com
+20/06/2021 17:41 - Sagos#8954: !sistemabemvindo
+20/06/2021 17:45 - Sagos#8954: !setaripdoservidor cidadecinza.servegame.com:30120
+20/06/2021 17:45 - Sagos#8954: !starstatus 1
+20/06/2021 17:46 - Sagos#8954: !setarstatus 1
+20/06/2021 17:46 - Sagos#8954: !setarstatus on

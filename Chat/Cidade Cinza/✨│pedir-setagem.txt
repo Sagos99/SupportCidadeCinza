@@ -1,0 +1,8 @@
+20/06/2021 19:09 - Sagos#8954: !solicitarset
+21/06/2021 12:15 - CM#1218: !solicitarset
+21/06/2021 12:15 - CM#1218: solicitarset
+21/06/2021 12:15 - CM#1218: !solicitarset
+21/06/2021 12:17 - Sagos#8954: @solicitarset
+22/06/2021 03:28 - Sagos#8954: !pedirsetagem
+22/06/2021 03:28 - Sagos#8954: !comandos configurações
+22/06/2021 03:28 - Sagos#8954: !comandos configuração

@@ -1,0 +1,11 @@
+20/06/2021 10:03 - Sagos#8954: !status
+20/06/2021 10:03 - Sagos#8954: !status
+20/06/2021 12:01 - Sagos#8954: !comandos
+20/06/2021 12:01 - Sagos#8954: !comandos configuração
+20/06/2021 12:05 - Sagos#8954: !comandos configuração
+20/06/2021 12:06 - Sagos#8954: !comandos donaters
+20/06/2021 12:50 - Sagos#8954: !comandos configuração
+20/06/2021 12:55 - Sagos#8954: !comandos configuração
+20/06/2021 12:57 - Sagos#8954: !setarcanalsugestoes <#856182228257341440>
+20/06/2021 13:36 - Sagos#8954: !setarcanalbugs <#856196527092793344>
+20/06/2021 13:41 - Sagos#8954: !setarcanalbugsrecebidos <#856211941675237387>

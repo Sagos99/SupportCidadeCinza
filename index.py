@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from discord import channel
 from discord.ext import commands
 from datetime import datetime
 import asyncio
@@ -156,30 +155,23 @@ async def on_reaction_remove(reaction, user):
     print(f'{user.display_name} removeu a reação {reaction.emoji} de uma mensagem\n')
 
 
+# client.run(get_token())
 
-# @tasks.loop(seconds=5.0, count=5)
-# async def send_message():
-#     channel = client.get_channel(850269583066529823)
-#     print('caiu 1')
-#     await channel.send('Quero café! ☕')
+user_id = input(f'Digite seu ID: ')
 
-
-
-#################
+try:
+    user = Helpers.db_consult(None, f'SELECT id, whitelisted, banned FROM vrp_users WHERE id={user_id};')[0]
+except Exception:
+    user = None
 
 
-# @tasks.loop(seconds=2)
-# async def slow_count():
-#     print(slow_count.current_loop)
-
-# @slow_count.after_loop
-# async def after_slow_count():
-#     print('done!')
-
-# slow_count.start()
-
-
-
-# send_message()
-
-client.run(get_token())
+if not user:
+    print('Esse ID não existe')
+elif user[2] == 1:
+    print('Você foi banido da cidade')
+else:
+    if user[1] == 1:
+        print('Seu ID já foi liberado')
+    else:
+        teste = Helpers.db_update(1, f'UPDATE vrp_users SET whitelisted=1 WHERE id={user[0]};')
+        print('Seu ID foi liberado')
